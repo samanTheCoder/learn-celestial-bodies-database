@@ -112,3 +112,16 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 psql --username=freecodecamp --dbname=postgres
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+git push https://github.com/samanTheCoder/Celestial-Bodies-Database.git master
+git push 'https://github.com/samanTheCoder/Celestial-Bodies-Database.git' master
+git push 'https://github.com/samanTheCoder/Celestial-Bodies-Database.git' master
+git push https://github.com/samanTheCoder/Celestial-Bodies-Database.git master
+clear
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+git push https://github.com/samanTheCoder/Celestial-Bodies-Database.git master
+git push https://github.com/samanTheCoder/Celestial-Bodies-Database.git master
+git push https://github.com/samanTheCoder/Celestial-Bodies-Database.git master
